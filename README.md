@@ -8,7 +8,6 @@ This project involves the implementation of various features for the circlepe pl
 
 - [Project Overview](#project-overview)
 - [Live Project](#live-project)
-- [Features](#features)
 - [Technology Stack](#technology-stack)
 - [Installation](#installation)
 - [Resources](#resources)
@@ -37,8 +36,8 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone 
-   cd Reachinbox-Assignment
+   git clone https://github.com/Abhinay8506/CirclePE-Home-Rental-Website.git
+   cd CirclePE-Home-Rental-Website
 
 2. **Install dependencies**:
    ```bash
@@ -51,6 +50,6 @@ To run this project locally, follow these steps:
 
 ## Resources
 
- - **Figma File** : https://www.figma.com/file/uECxqvFhEx9dn4ZuO7wqmu/Reachinbox-Assignment?type=design&node-id=0-1&mode=design
+ - **Figma File** : https://www.figma.com/proto/dsAjYtJma8Nnpoxd8VuUii/Untitled?page-id=0%3A1&node-id=1-57&node-type=FRAME&viewport=2073%2C400%2C0.2&t=7drkJlj6sjbV83Ao-1&scaling=min-zoom&content-scaling=fixed
    
- - **API documentation** : https://documenter.getpostman.com/view/30630244/2sA2rCTMKr#433eb613-e405-4239-9e2d-f20485b31b27
+ - **Figma Prototype** : https://www.figma.com/design/dsAjYtJma8Nnpoxd8VuUii/Untitled?node-id=0-1&node-type=CANVAS&t=lnEUgXjwabOywVco-0
