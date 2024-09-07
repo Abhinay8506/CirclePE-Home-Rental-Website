@@ -26,6 +26,18 @@ The CirclePE Assignment is designed to simulate a mini version of the ReachInbox
 
   - **Live link** : https://66dc868d366cdeaf3603f408--abhinaycircleperentals.netlify.app/
 
+  - ### Home Page
+    ![Home Page](https://github.com/Abhinay8506/CirclePE-Home-Rental-Website/blob/main/src/assets/imagepro12.png)
+
+  - ### Property Details Page
+    ![Onebox Screen](https://github.com/Abhinay8506/CirclePE-Home-Rental-Website/blob/main/src/assets/imagepro2.png)
+
+  - ### Custom Checkout Page
+    ![Custom](https://github.com/Abhinay8506/CirclePE-Home-Rental-Website/blob/main/src/assets/imagepro3.png)
+
+  - ### Final Page
+    ![Final](https://github.com/Abhinay8506/CirclePE-Home-Rental-Website/blob/main/src/assets/imagepro4.png)
+
 ## Technology Stack
 
 - **Frontend**: HTML, CSS, JavaScript,React.js ,React-routers
