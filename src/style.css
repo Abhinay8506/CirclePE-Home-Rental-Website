@@ -709,6 +709,12 @@
       flex: 1 1 50%; 
       max-width: 45%;
     }
+    .property-image{
+        width:100px;
+        height:auto;
+    }
+    
+
   
     .image-container {
       flex-direction: column;
