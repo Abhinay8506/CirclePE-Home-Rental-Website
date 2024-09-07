@@ -101,8 +101,8 @@
   }
   
   .property-image {
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
     border-radius: 10px;
     object-fit: cover;
     margin-right: 15px;
@@ -245,9 +245,10 @@
   background-color: skyblue;
 }
 
-.property-image {
-  width: 200px; 
-  height: auto;
+.property-box img{
+  position: relative;
+  width: 150px; 
+  height: 150px;
   border-radius: 8px;
   margin-right: 15px;
 }
@@ -712,8 +713,8 @@
   
     .image-container {
       flex-direction: column;
-
     }
+    
   }
 
 
