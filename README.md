@@ -24,7 +24,7 @@ The CirclePE Assignment is designed to simulate a mini version of the ReachInbox
 
 ## LIVE PROJECT
 
-  - **Live link** : https://66dc868d366cdeaf3603f408--abhinaycircleperentals.netlify.app/
+  - **Live link** : https://main--abhinaycircleperentals.netlify.app/
 
   - ### Home Page
     ![Home Page](https://github.com/Abhinay8506/CirclePE-Home-Rental-Website/blob/main/src/assets/imagepro12.png)
