@@ -1,6 +1,6 @@
-# CirclePE Front-end Assignment
+# CirclePE Front-end Website
 
-Welcome to the CirclePE Assignment repository!
+Welcome to the CirclePE repository!
 
 This project involves the implementation of various features for the circlepe platform, including home rental examples , payment checkout options. The goal is to create a seamless and efficient user experience while ensuring robust backend support.
 
